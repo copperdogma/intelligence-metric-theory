@@ -34,6 +34,7 @@
    - Broader application than traditional intelligence theories
    - Unique focus on prediction across all system types
    - Novel decoupling from specific cognitive mechanisms
+   - *Key Clarification*: Theory measures outcomes (predictive power) independent of mechanisms (creativity, problem-solving methods)
    - *Key Differentiator*: Universal framework independent of implementation
 
 3. **Practical Applications**
@@ -41,6 +42,18 @@
    - Fresh perspective on comparing disparate forms of intelligence
    - Novel approach to measuring intelligence through efficiency
    - *Key Differentiator*: Practical measurement framework across system types
+
+4. **Core Novel Elements**
+   - Resource-independence principle: Intelligence measured relative to available resources
+   - Meta-predictive framework: Systems that can monitor and refine their predictive processes
+   - Universal efficiency metrics: Potential for standardized cross-domain intelligence comparison
+   - Integration of established theories under unified predictive efficiency lens
+
+5. **Development Priorities**
+   - Formalize mathematical model for predictive efficiency
+   - Define prediction mechanisms in non-cognitive systems
+   - Develop standardized metrics across domains
+   - Create proof-of-concept case studies focusing on predictive outcomes
 
 ### Expert Feedback
 *External validation of novelty and potential impact*

@@ -177,4 +177,50 @@ The mechanism by which systems achieve prediction (e.g., through mental models) 
 2. **Theoretical Scope**
    - Applies to any system capable of prediction
    - Independent of specific mechanisms or implementations
-   - Focused on outcomes rather than processes 
+   - Focused on outcomes rather than processes
+
+## Domain Boundaries and Intelligence Measurement
+
+### Domain Specificity
+- Intelligence measurements are always bounded by specific domains
+- A system's intelligence can vary dramatically across different domains
+- Domain boundaries are explicitly defined for measurement
+- This explicit boundary setting is a feature, not a limitation
+
+### Chinese Room Example
+- In Chinese translation domain: System would score extremely high
+- In basic mathematics domain: System would score near zero
+- Traditional "intelligent" system might score moderately in both domains
+- Demonstrates how domain boundaries affect intelligence measurement
+
+### Practical Applications
+1. **Professional Assessment**
+   - Multiple relevant domains measured separately:
+     - Technical skills (e.g., programming in specific language)
+     - Problem-solving ability (e.g., algorithm design)
+     - Social intelligence (e.g., team collaboration)
+   - Combined scores provide domain-relevant intelligence measure
+   - Weights can be adjusted based on importance to role
+
+2. **Existing Intelligence Tests**
+   - Current IQ tests already use domain-specific measurements:
+     - Verbal comprehension
+     - Spatial reasoning
+     - Mathematical ability
+   - Theory provides formal framework for existing practice
+
+### Key Insights
+1. **Domain Flexibility**
+   - Theory allows intelligence measurement in any well-defined domain
+   - Applicable from simple organisms to complex systems
+   - Domains can be as narrow or broad as needed
+
+2. **Comparative Analysis**
+   - Different systems can be compared within same domain
+   - Single system can be evaluated across multiple domains
+   - Provides nuanced view of intelligence distribution
+
+3. **Practical Measurement**
+   - Domain boundaries must be explicitly defined
+   - Measurements are always relative to defined domain
+   - Multiple domain measurements can be combined for broader assessment 

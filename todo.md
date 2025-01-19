@@ -209,4 +209,44 @@
 ### Paper Development
 1. [ ] Outline academic paper structure
 2. [ ] Identify target journals
-3. [ ] Draft initial abstract 
+3. [ ] Draft initial abstract
+
+## Research Tasks
+
+### Prediction in Non-Cognitive Systems
+- [ ] Define formal criteria for distinguishing meaningful prediction from simple cause-effect responses
+- [ ] Develop framework for analyzing predictive behavior in cellular automata and basic mechanical systems
+- [ ] Research existing literature on prediction-like behaviors in simple organisms
+- [ ] Create taxonomy of prediction types across different system complexities
+
+### Meta-Prediction Formalization
+- [ ] Research existing mathematical models of metacognition and self-regulatory systems
+- [ ] Develop formal mathematical definition of meta-prediction vs standard prediction
+- [ ] Design quantifiable measures for meta-predictive feedback loops
+- [ ] Create framework for evaluating meta-predictive capabilities across different system types
+
+### Empirical Validation Framework
+- [ ] Design cross-domain intelligence comparison methodology
+- [ ] Develop standardized metrics for measuring predictive efficiency
+- [ ] Create testable predictions for theory validation
+- [ ] Design pilot studies for different system types (biological, social, artificial)
+- [ ] Identify key benchmarks for comparing intelligence across domains
+
+### Ethical and Practical Considerations
+- [ ] Analyze potential biases in efficiency-based intelligence measures
+- [ ] Study implications for human-AI interaction and development
+- [ ] Investigate ethical frameworks for intelligence measurement
+- [ ] Examine potential societal impacts of universal intelligence metrics
+
+### Case Studies
+- [ ] Identify candidate systems for proof-of-concept studies
+- [ ] Design comparative analysis framework
+- [ ] Develop measurement protocols
+- [ ] Create documentation templates for case study results
+
+### Domain Analysis Framework
+- [ ] Develop formal methodology for defining domain boundaries
+- [ ] Create guidelines for domain-specific intelligence measurement
+- [ ] Research how to properly weight and combine multiple domain scores
+- [ ] Design validation framework for domain boundary definitions
+- [ ] Study relationship between domain breadth and intelligence scores 
