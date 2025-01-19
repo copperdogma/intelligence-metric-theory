@@ -20,6 +20,15 @@
      - Connection to efficiency and prediction
    - Defer other disciplines for later investigation
 
+2. [ ] Create separate Mental Models Theory project
+   - Set up parallel project structure
+   - Move mechanism-specific content there
+   - Topics to cover:
+     - Adaptability and updating mechanisms
+     - Modular architecture
+     - Model construction and refinement
+   - Maintain connection to I = P/R as evaluation metric
+
 ### Foundational Questions
 1. [ ] Address core theoretical questions (from Nicole):
    - Prediction vs. Problem Solving
@@ -68,15 +77,21 @@
    - Karl Friston's free-energy principle
    - Bayesian brain theories
 
-2. [ ] Study universal intelligence measures
+2. [ ] Study "The Embodied Mind: Cognitive Science and Human Experience" (from Nicole)
+   - Analyze connections to prediction and efficiency
+   - Consider implications for embodied cognition
+   - Examine relationship between experience and intelligence
+   - Note relevance to our theoretical framework
+
+3. [ ] Study universal intelligence measures
    - Shane Legg and Marcus Hutter's work
    - Compare with our efficiency-based approach
 
-3. [ ] Research metacognition
+4. [ ] Research metacognition
    - Review Wikipedia article and key papers
    - Connect to meta-prediction aspects
 
-4. [ ] Analyze O1 mental models and missed connections
+5. [ ] Analyze O1 mental models and missed connections
    - Review ChatGPT conversation
    - Identify potential gaps or oversights
 
@@ -117,6 +132,44 @@
 1. [ ] Design methods to measure predictive efficiency across different systems
 2. [ ] Create frameworks for comparing intelligence while controlling for resources
 3. [ ] Develop standardized metrics for cross-system comparison
+
+### Mathematical Framework
+1. [ ] Investigate implications of I = P/R formula
+   - Define and measure P (Predictive Power)
+     - Accuracy metrics
+     - Scope/breadth of predictions
+     - Time horizon considerations
+   - Define and measure R (Resource Consumption)
+     - Energy/computational resources
+     - Time requirements
+     - Memory/storage needs
+   - Study edge cases:
+     - Reflexes (high I through minimal R)
+     - Supercomputers (potentially low I despite high P, due to massive R)
+     - Collective intelligence (emergent P with distributed R)
+   - Develop standardized measurement approaches
+   - Consider implications for:
+     - AI system design
+     - Educational methods
+     - Organizational decision-making
+
+### Mental Models Theory Development
+*Note: This is a separate theory about mechanisms of intelligence*
+1. [ ] Research adaptability mechanisms
+   - Study how systems update their models
+   - Analyze costs and benefits of adaptation
+   - Investigate modular architectures
+   - Consider relationship to I = P/R measurement
+
+2. [ ] Explore "Updater" model concept
+   - How do systems evaluate new information?
+   - What determines update costs?
+   - How to measure update effectiveness?
+
+3. [ ] Investigate modular intelligence
+   - Study specialized prediction modules
+   - Analyze module interaction costs
+   - Consider architectural implications
 
 ## Priority 3: Theoretical Refinement
 

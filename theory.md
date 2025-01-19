@@ -1,6 +1,7 @@
 20250109: Created by Cam Marsollier with Claude 3.5 Sonnet
 20250109: Updated by Cam Marsollier with Claude 3.5 Sonnet to add core theoretical framework
 20250109: Updated by Cam Marsollier with Claude 3.5 Sonnet to add supporting arguments and missing implications
+20250109: Updated by Cam Marsollier with Claude 3.5 Sonnet to add mathematical formulation
 
 # Theory of Intelligence as Efficient Prediction
 
@@ -12,7 +13,20 @@ This theory proposes a meta-definition of intelligence that encompasses all comm
 ### Core Definition
 Intelligence is a measure of efficient prediction in a system within a given context.
 
-This theory is unconcerned with how predictions are made, focusing solely on outcomes and efficiency. Context is inherent in all predictions, making the theory universally applicable across systems, from slime molds and ants to AI, humans, political bodies, and entire civilizations. By remaining untied to specific models of cognition, the theory provides a universal framework for understanding intelligence in any form.
+This can be expressed mathematically as:
+I = P/R
+where:
+- I is Intelligence
+- P is Predictive Power (accuracy and scope of predictions)
+- R is Resource Consumption (effort, energy, time, etc.)
+
+This formulation captures several key insights:
+1. Higher predictive power increases intelligence
+2. Lower resource consumption increases intelligence
+3. Simple but accurate predictions (like reflexes) can represent high intelligence due to minimal resource usage
+4. Complex predictions may represent lower intelligence if they consume disproportionate resources
+
+This theory is unconcerned with how predictions are made, focusing solely on outcomes and efficiency. Context is inherent in all predictions, making the theory universally applicable across systems, from slime molds and ants to AI, humans, political bodies, and entire civilizations.
 
 ### Core Principles
 
@@ -88,15 +102,8 @@ This theory is unconcerned with how predictions are made, focusing solely on out
 
 ## Development Section
 
-### Mental Models Framework
-
-1. **Definition and Purpose**
-   - Mental models are internal simulations of reality, built from experience, observation, and imagination.
-   - They serve as tools for making predictions by representing how the world works in various contexts.
-
-2. **Relationship to Intelligence**
-   - While not part of the core definition, mental models naturally align as a mechanism for prediction.
-   - Refining mental models allows systems to make more nuanced, context-aware predictions.
+### Note on Mental Models
+The mechanism by which systems achieve prediction (e.g., through mental models) is explored in a separate theory. This theory remains agnostic to mechanisms, focusing purely on measuring intelligence through predictive efficiency (I = P/R).
 
 ### Resource Limitations and Intelligence
 
@@ -107,6 +114,58 @@ This theory is unconcerned with how predictions are made, focusing solely on out
 2. **Leverage of Resources**
    - Superior intelligence is demonstrated through effective use of available resources.
    - Success through efficient prediction despite resource limitations indicates higher intelligence.
+
+### Resource Types and Classification
+1. **Resource Categories**
+   - Time: Processing duration, thinking time, reaction speed
+   - Energy: Physical or computational power consumed
+   - Material: Physical resources or memory required
+   - The theory may benefit from more granular resource classification
+
+2. **Zero-Resource Intelligence**
+   - Genetic intelligence represents near-zero resource prediction
+   - Evolutionary processes encode predictive power without active computation
+   - Raises questions about the role of agency in intelligence
+
+### Intelligence in Systems
+
+1. **Static vs. Dynamic Systems**
+   - Static systems (formulas, mechanical devices) are tools rather than intelligent entities
+   - True intelligence requires agency and feedback loops
+   - Systems become intelligent when combined with agents that utilize them
+
+2. **Simple Autonomous Systems**
+   - Roombas demonstrate basic predictive intelligence through navigation
+   - Resource usage is minimal for simple environmental predictions
+   - Efficiency achieved through specialized, limited-scope intelligence
+
+### Artificial Intelligence Implications
+
+1. **LLM Intelligence**
+   - Immediate responses without apparent "thinking time" may indicate high intelligence
+   - Resource efficiency in LLMs challenges traditional views of cognitive processing
+   - Chain-of-thought prompting demonstrates value of explicit reasoning steps
+
+2. **Intelligence Measurement**
+   - Traditional IQ comparisons may not capture resource efficiency
+   - Need for new metrics that account for both accuracy and resource usage
+   - Challenge of comparing different types of intelligence (e.g., human vs. AI)
+
+### Model Evaluation Through Intelligence
+
+1. **Intelligence as Model Metric**
+   - Mental models can be evaluated by their predictive efficiency
+   - More intelligent models achieve better predictions with simpler mechanisms
+   - Model evolution naturally trends toward greater intelligence
+
+2. **Historical Example: Cosmological Models**
+   - Geocentric model demonstrated lower intelligence through:
+     - Complex, inefficient predictions (epicycles)
+     - Limited scope and accuracy
+   - Copernican model showed higher intelligence via:
+     - Simpler predictive mechanism
+     - Greater accuracy across broader contexts
+   - Demonstrates how intelligence metrics drive model evolution
 
 ## Assumptions & Constraints
 

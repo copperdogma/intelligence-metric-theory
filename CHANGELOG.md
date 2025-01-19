@@ -2,7 +2,44 @@
 
 # Project Evolution
 
-## Milestone 1: Initial Framework Organization (2025-01-09)
+## Milestone 20250119: Mathematical Formulation and Theory Expansion
+
+### Major Developments
+1. Added mathematical formulation of intelligence (I = P/R)
+   - Defined intelligence as ratio of Predictive Power to Resource Consumption
+   - Identified key insights from mathematical relationship
+   - Established framework for quantitative analysis
+
+2. Expanded Development Section
+   - Added Resource Types and Classification
+   - Explored Intelligence in Systems (static vs. dynamic)
+   - Analyzed AI Implications
+   - Added Model Evaluation framework
+
+3. Structural Improvements
+   - Separated Mental Models theory into distinct project
+   - Created dedicated Mathematical Framework research track
+   - Added new research priorities for Mental Models theory development
+
+### Key Insights
+1. Zero-resource intelligence concept (genetic/evolutionary intelligence)
+2. Static vs. dynamic systems distinction
+3. LLM intelligence evaluation framework
+4. Model evaluation through intelligence metrics (Geocentric vs. Copernican example)
+
+### Research Priorities
+1. Mathematical framework development
+2. Mental Models theory separation
+3. Intelligence measurement standardization
+
+### Next Steps
+1. Define and measure Predictive Power (P)
+2. Quantify Resource Consumption (R)
+3. Develop standardized measurement approaches
+4. Investigate edge cases 
+
+
+## Milestone 20250119: Initial Framework Organization
 
 ### Major Developments
 1. Established core theoretical framework in `theory.md`
@@ -43,3 +80,4 @@
 1. Begin literature review to establish novelty
 2. Develop practical metrics for utility demonstration
 3. Refine theoretical framework based on findings 
+
