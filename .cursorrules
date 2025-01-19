@@ -33,6 +33,7 @@ Document Structure:
   - Major theoretical refinements
   - New evidence incorporation
   - Significant perspective shifts
+  - Newest entry at the top, dated in YYYYMMDD format
 
 Document Format:
 - Use markdown (.md) only
@@ -62,3 +63,4 @@ Specific Rules:
 - I should proactively identify logical connections between different parts of the theory and note them in appropriate documents.
 - If I notice gaps in reasoning or evidence, I should flag them for investigation in todo.md.
 - If I refer to "Nicole" or "my wife," that's my wife Nicole Libin.
+- If I say "check in to git," add everything new to git, create a PR based on recent changes with appropriate comments (possible latest CHANGELOG.md), and merge it.
