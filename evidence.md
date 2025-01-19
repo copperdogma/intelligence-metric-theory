@@ -1,6 +1,4 @@
-20250109: Created by Cam Marsollier with Claude 3.5 Sonnet
-20250109: Updated by Cam Marsollier with Claude 3.5 Sonnet to add examples and case studies
-20250109: Updated by Cam Marsollier with Claude 3.5 Sonnet to add missing case studies and expand examples
+20250118: Created by Cam Marsollier with Claude 3.5 Sonnet
 
 # Evidence Collection
 

@@ -40,9 +40,9 @@ Document Format:
 - Include document header with:
   YYYYMMDD: Created by [user's name] with [AI model]
   YYYYMMDD: Updated by [user's name] with [AI model] to [change summary]
+  - Only add updates to theory.md, evidence.md, and research.md.
   - There can be more than one update per day if significant changes are made.
-  - For CHANGELOG.md, don't add an update at the top (redundant), just add the new dated milestone.
-
+  
 Content Guidelines:
 - Use H1 for title, H2 for major sections
 - Keep related content grouped
@@ -61,3 +61,4 @@ Specific Rules:
 - When discussing theoretical components, I should explicitly identify assumptions and potential limitations.
 - I should proactively identify logical connections between different parts of the theory and note them in appropriate documents.
 - If I notice gaps in reasoning or evidence, I should flag them for investigation in todo.md.
+- If I refer to "Nicole" or "my wife," that's my wife Nicole Libin.

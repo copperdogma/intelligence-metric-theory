@@ -1,7 +1,4 @@
 20250109: Created by Cam Marsollier with Claude 3.5 Sonnet
-20250109: Updated by Cam Marsollier with Claude 3.5 Sonnet to add related theories and research
-20250109: Updated by Cam Marsollier with Claude 3.5 Sonnet to add feedback and novelty assessment
-20250109: Updated by Cam Marsollier with Claude 3.5 Sonnet to prioritize novelty analysis and add project goals
 
 # Research Overview
 
