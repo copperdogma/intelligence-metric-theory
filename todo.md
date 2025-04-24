@@ -2,6 +2,9 @@
 
 # Research Questions and Tasks
 
+# Unsorted (recategorize anything here first)
+- Use Google Deep Research to aid researching: https://blog.google/products/gemini/google-gemini-deep-research/
+
 ## Priority 1: Establish Novelty
 
 ### Initial Focus

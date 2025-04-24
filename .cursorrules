@@ -34,6 +34,7 @@ Document Structure:
   - New evidence incorporation
   - Significant perspective shifts
   - Newest entry at the top, dated in YYYYMMDD format
+- /references folder, will be used for documents on specific related topics
 
 Document Format:
 - Use markdown (.md) only
