@@ -105,6 +105,8 @@ This theory is unconcerned with how predictions are made, focusing solely on out
 ### Note on Mental Models
 The mechanism by which systems achieve prediction (e.g., through mental models) is explored in a separate theory. This theory remains agnostic to mechanisms, focusing purely on measuring intelligence through predictive efficiency (I = P/R).
 
+*See /examples/prediction-model-tiers.md for a concrete example of how different modeling approaches trade off resource costs against predictive power.*
+
 ### Resource Limitations and Intelligence
 
 1. **Prediction vs. Resources**

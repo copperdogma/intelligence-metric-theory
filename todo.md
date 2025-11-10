@@ -4,6 +4,8 @@
 
 # Unsorted (recategorize anything here first)
 - Use Google Deep Research to aid researching: https://blog.google/products/gemini/google-gemini-deep-research/
+- Theory could apply to the "intelligence" of systems, too. Like the scientific industry where they generate papers and patents. How "intelligent" is that system at creating actual value?
+- Paper explaining predicitons < world models, so perhaps my predictions are not a great explanation for the core of intelligence and it should be upgraded to models? https://x.com/keyonV/status/1943730486280331460
 
 ## Priority 1: Establish Novelty
 
