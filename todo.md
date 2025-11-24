@@ -6,6 +6,7 @@
 - Use Google Deep Research to aid researching: https://blog.google/products/gemini/google-gemini-deep-research/
 - Theory could apply to the "intelligence" of systems, too. Like the scientific industry where they generate papers and patents. How "intelligent" is that system at creating actual value?
 - Paper explaining predicitons < world models, so perhaps my predictions are not a great explanation for the core of intelligence and it should be upgraded to models? https://x.com/keyonV/status/1943730486280331460
+- Systemic Intelligence: Add in more on innovation and systemic friction, like businesses fighting against innovation. Based on 2024 Nobel Prize in Economics. Wrote Journal entry + chatGPT convo: https://chatgpt.com/c/69178eea-64f4-8327-8475-7a9101b6ecf2
 
 ## Priority 1: Establish Novelty
 
