@@ -1,5 +1,3 @@
-20250110: Created by Cam Marsollier with Claude 3.5 Sonnet
-
 # Prediction Model Tiers: A Cost-Benefit Framework
 
 ## Overview

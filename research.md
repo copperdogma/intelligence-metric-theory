@@ -1,5 +1,3 @@
-20250109: Created by Cam Marsollier with Claude 3.5 Sonnet
-
 # Research Overview
 
 ## Project Goals and Priorities
@@ -158,3 +156,58 @@
    - Develop assessment tools based on theory
    - Create frameworks for system comparison
    - Build predictive efficiency metrics 
+
+## Existing theories that line up cleanly with I = P / R
+
+These frameworks don’t “replace” I=P/R so much as **cover specific parts of the landscape** that I=P/R tries to unify under one efficiency lens (more useful prediction/control for fewer resources).
+
+### Extended cognition / “Extended mind” (Clark & Chalmers)
+Core idea: cognition can include **external artifacts** (notes, tools, environment) as part of the cognitive system.
+- Link: https://philpapers.org/rec/CLATEM
+- PDF: https://www.alice.id.tue.nl/references/clark-chalmers-1998.pdf
+
+### Distributed cognition (Hutchins)
+Core idea: the cognitive unit of analysis can be **a team + artifacts + procedures**, not an individual mind.
+- MIT Press (book page): https://mitpress.mit.edu/9780262581462/cognition-in-the-wild/
+- (Also widely circulated PDF): https://uberty.org/wp-content/uploads/2015/07/Edwin_Hutchins_Cognition_in_the_Wild.pdf
+- Shorter overview paper (PDF): https://arl.human.cornell.edu/linked%20docs/Hutchins_Distributed_Cognition.pdf
+
+### Ecological Interface Design (EID) (Vicente & Rasmussen)
+Core idea: interface design for complex systems should reduce unnecessary cognitive work and support skill/rule/knowledge control levels (SRK); **don’t force higher-level processing than the task requires**.
+- Semantic Scholar (entry + links): https://www.semanticscholar.org/paper/Ecological-interface-design%3A-theoretical-Vicente-Rasmussen/9590c02ad75be045f77ff08a61e240d5e66ccdd2
+- PDF (IEEE, “theoretical foundations”): https://backend.orbit.dtu.dk/ws/files/158017888/SMC.PDF
+
+### Situation Awareness (Endsley)
+Core idea: SA has levels (commonly summarized as **perception → comprehension → projection**), and SA is a key bottleneck in dynamic, time-critical tasks.
+- PDF (Endsley, “Toward a Theory of Situation Awareness…”): https://maritimesafetyinnovationlab.org/wp-content/uploads/2018/11/Endsley-Theory-of-Situational-Awareness.pdf
+
+### Bounded rationality (Herbert Simon)
+Core idea: rationality is limited by **information and computation constraints**; agents “satisfice” under limits.
+- PDF (“A Behavioral Model of Rational Choice”, 1955): https://cooperative-individualism.org/simon-herbert_a-behavioral-model-of-rational-choice-1955-feb.pdf
+
+### Rational inattention (Sims)
+Core idea: agents face **information-processing capacity constraints**; optimal behavior includes *choosing what not to attend to*.
+- PDF (“Implications of rational inattention”): https://pages.stern.nyu.edu/~dbackus/Exotic/1Robustness/Sims%20inattention%20JME%2003.pdf
+- Princeton-hosted PDF: https://sims.princeton.edu/yftp/Gerzensee/info.pdf
+
+### Information-theoretic bounded rationality (Ortega, Braun, et al.)
+Core idea: decision-making under resource limits can be modeled as optimizing performance under an information/complexity budget (often framed via free-energy style objectives).
+- arXiv: https://arxiv.org/abs/1512.06789
+- Author hub (overview + related papers): https://www.adaptiveagents.org/freeenergy
+
+### Cybernetics / Control theory (Wiener)
+Core idea: **control and communication** in animals and machines; feedback loops, stability, and regulation—highly compatible with “prediction under intervention” framing.
+- MIT Press (open access edition): https://direct.mit.edu/books/oa-monograph/4581/Cybernetics-or-Control-and-Communication-in-the
+
+---
+
+## Adjacent theories that map nicely onto “R”, SNR, and alert fatigue
+
+### Cognitive Load Theory (Sweller)
+Core idea: working memory is limited; instructional/interface design should minimize **extraneous load** (pure overhead).
+- PDF (1988): https://andymatuschak.org/files/papers/Sweller%20-%201988%20-%20Cognitive%20load%20during%20problem%20solving.pdf
+
+### Signal Detection Theory (Green & Swets; Swets)
+Core idea: decisions under noise trade off false alarms vs misses; directly relevant to “cry wolf” / alert calibration and **signal-to-noise**.
+- SDT primer (Harvard): https://www.hms.harvard.edu/bss/neuro/bornlab/nb204/statistics/sdt.pdf
+- (Historical reference listing): https://archive.org/details/signaldetectiont0000gree

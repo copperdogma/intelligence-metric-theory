@@ -1,4 +1,105 @@
-20250109: Created by Cam Marsollier with Claude 3.5 Sonnet
+# Add secondary layer to theory: domain, granularity, utility, timescales (control + adaptation), agency
+20251205: From GPT51 chat: https://chatgpt.com/c/6933446a-4a94-8329-8b7a-87353766f5b4
+
+1. Core definition
+
+Intelligence
+
+I = \dfrac{P}{R}
+Intelligence is the predictive power P achieved per unit of resources R expended.
+
+This is intentionally minimal. Everything else (domains, abstractions, agency, learning) sits under P and R.
+
+⸻
+
+2. Context parameters
+
+Every measurement of intelligence is relative to a context:
+	•	Domain D: the class of situations or tasks considered (e.g. “urban driving,” “arithmetic,” “short-term social interaction”).
+	•	Granularity G: the level of abstraction or detail at which the domain is modeled (e.g. atoms vs rigid bodies vs traffic rules).
+	•	Utility U: what counts as a good prediction in that context (e.g. safety, accuracy, reward, profit).
+
+So more precisely, intelligence is:
+
+I(D, G, U) = \dfrac{P(D, G, U)}{R(D, G, U)}
+
+⸻
+
+3. Prediction and resources
+
+Predictive power P(D,G,U)
+A measure of how well a system’s internal model matches what actually happens in domain D, at granularity G, under utility U.
+	•	Practically: average score under some loss/utility function (accuracy, log-likelihood, expected reward, etc.) over the domain’s distribution of cases.
+
+Resources R(D,G,U)
+The total cost of achieving that predictive performance in that context.
+	•	Can include: time, energy, computation, memory, data, money, human labor, etc.
+	•	Defined at whatever system boundary you care about (single device vs entire training ecosystem).
+
+⸻
+
+4. Timescales
+
+Two timescales matter:
+	•	Control timescale \Delta t_c
+	•	How quickly the system can act on the world using its current model.
+	•	Examples:
+	•	FSD control loop: milliseconds
+	•	Manufacturing robot: milliseconds–seconds
+	•	Tree physiology (stomata, leaf orientation): minutes–days
+	•	Adaptation timescale \tau
+	•	How quickly the system can change its model in a durable way to improve P/R.
+	•	Examples:
+	•	Calculator, deployed FSD model: \tau \to \infty (no self-update)
+	•	Human learning: minutes–years
+	•	Evolution acting on trees/animals: thousands–millions of years
+
+Control is about using a model; adaptation is about changing it.
+
+⸻
+
+5. Agency
+
+Agency A (qualitative, not a scalar here) describes how far a system:
+	•	sets or reshapes its own goals,
+	•	chooses where to explore in model/latent space,
+	•	steers its own improvement of P/R.
+
+Roughly:
+	•	Low A: system is only optimized from the outside (evolution, engineers, training pipelines).
+	•	High A: system can internally decide what to learn, where to explore, which errors to reduce.
+
+⸻
+
+6. Taxonomy under this framework
+
+Given I(D,G,U) = P/R, \Delta t_c, \tau, and A, we can distinguish three broad classes:
+	1.	Tool-like intelligences
+	•	High I in a narrow domain.
+	•	Fast control \Delta t_c.
+	•	No meaningful self-adaptation (\tau \approx \infty).
+	•	Near-zero agency A.
+	•	Examples: calculators, manufacturing machines, a deployed FSD build, an LLM at inference.
+	2.	Externally-optimized intelligences (evolution / training loops)
+	•	Inner systems (organisms, models) have fixed or slow-changing behavior during their lifetime.
+	•	An outer process (evolution, human engineers + GPUs) performs a slow search that improves I over generations/versions.
+	•	Agency is mostly in the outer process, and even there can be very low (e.g. blind natural selection).
+	3.	Self-adapting agentic intelligences
+	•	Nontrivial I across multiple domains.
+	•	Fast control \Delta t_c and relatively fast adaptation \tau within the same system.
+	•	Non-negligible agency A: can pick goals, direct attention, and reorganize its own modeling to improve P/R.
+	•	Example: humans (and, in principle, any future AI that can update its own models and training objectives online).
+
+⸻
+
+This keeps I = P/R as the core law, and treats:
+	•	domains, granularities, and utilities as the coordinate system you measure in,
+	•	timescales and agency as orthogonal dimensions that explain why calculators, trees, FSD, LLMs, and humans feel so different even though they’re all describable under the same metric.
+
+
+
+
+
 
 # Research Questions and Tasks
 

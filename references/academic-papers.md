@@ -1,6 +1,4 @@
 # Writing Academic Papers
-20250119: Created by Cam Marsollier and Claude 3.5 Sonnet from chat with ChatGPT 4o.
-20250119: Enhanced by Claude 3.5 Sonnet via research of: [APU's Tips on Writing a Good Research Paper](https://www.apu.apus.edu/area-of-study/education/resources/tips-on-writing-a-good-research-paper/)
 
 Writing an academic paper involves two major considerations: structural and content requirements for publication and evaluating its success metrics. Here's a breakdown of both dimensions:
 

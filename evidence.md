@@ -1,5 +1,3 @@
-20250109: Created by Cam Marsollier with Claude 3.5 Sonnet
-
 # Evidence Collection
 
 ## Examples

@@ -21,10 +21,20 @@ A theoretical framework proposing that intelligence is fundamentally about achie
 
 ## Repository Structure
 
-- `theory.md`: Core theoretical framework
-  - Primary theory components
-  - Development section
-  - Assumptions and constraints
+- `theory.md`: Executive summary and front door to the theory
+  - Core definition (I = P/R)
+  - Core principles
+  - Links to detailed documentation
+
+- `/docs/core/`: Core definitions (refined over time)
+  - `I.md`: What "intelligence" means in this framework (includes composite systems, timescales, agency, taxonomy)
+  - `P.md`: What prediction is (includes forecasting vs intervention, compiled vs simulated, P↔R coupling, prediction axes)
+  - `R.md`: What resources are (includes time/attention/compute as first-class)
+
+- `/docs/concepts/`: Important recurring ideas
+  - `envelope.md`: The scope template + why it's mandatory (domain, horizon, intervention class, distribution, stakes)
+  - `truth-vs-utility.md`: What kind of correctness P measures (includes the predictive/causal/mechanistic ladder)
+  - `prediction.md`: The broader "what counts as prediction?" essay (trees, evolution, mechanical systems, etc.)
 
 - `evidence.md`: Supporting evidence
   - Real-world examples
@@ -46,6 +56,8 @@ A theoretical framework proposing that intelligence is fundamentally about achie
   - Major milestones
   - Key decisions
   - Development history
+
+- `/examples/`: Concrete applications and case studies
 
 ## Current Status
 

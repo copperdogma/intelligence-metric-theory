@@ -1,5 +1,49 @@
+# File Change Log Entries
+
+## theory.md
+- 20250109: Created
+- 20250109: Updated to add core theoretical framework
+- 20250109: Updated to add supporting arguments and missing implications
+- 20250109: Updated to add mathematical formulation
+- 20250119: Updated to reorganize as executive summary with references to detailed documentation
+
+## docs/core/I.md
+- 20250119: Created
+
+## docs/concepts/truth-vs-utility.md
+- 20250119: Created
+
+## docs/concepts/prediction.md
+- 20250119: Created
+
+## docs/core/P.md
+- 20250119: Created
+
+## docs/concepts/envelope.md
+- 20250119: Created
+
+## docs/core/R.md
+- 20250119: Created
+
+## todo.md
+- 20250109: Created
+
+## examples/prediction-model-tiers.md
+- 20250110: Created
+
+## references/academic-papers.md
+- 20250119: Created from chat with ChatGPT 4o
+- 20250119: Enhanced via research of: [APU's Tips on Writing a Good Research Paper](https://www.apu.apus.edu/area-of-study/education/resources/tips-on-writing-a-good-research-paper/)
+
+## evidence.md
+- 20250109: Created
+
+## research.md
+- 20250109: Created
+
+---
+
 20250119: Domain-Specific Intelligence Framework Milestone
-By Cam Marsollier with Claude 3.5 Sonnet
 
 Major Developments:
 1. Domain Boundaries Framework
@@ -34,7 +78,7 @@ Next Steps:
 - Create proof-of-concept case studies
 - Research prediction in non-cognitive systems
 
-20250109: Created by Cam Marsollier with Claude 3.5 Sonnet
+20250109: Created
 
 # Project Evolution
 
